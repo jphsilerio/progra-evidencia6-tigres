@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+p.negro{
+	font-family: gotham, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: black;
+	
+}
+p.blanco{
+	font-family: gotham, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+	padding: 10px;
+}
+
+h1.titulos{
+	font-family: gotham, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #fcb034;	
+}
+h1.tit{
+	font-family: gotham, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #0053a1;
+	padding-right: 30px;
+}
+h2.ama{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #fcb034;
+	font-size: 18px;
+	padding-left: 20px;
+}
+h2.ama2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #fcb034;
+	font-size: 25px;
+	padding-right: 60px;
+	padding-left: 70px;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+h2.bla{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+	font-size: 18px;
+}
+h1.white{
+	font-family: gotham, Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: white;
+	padding-left: 30px;
+}
+
+div.maximo{
+	width: 1230px;
+	margin: auto;
+	
+}
+div.div1{
+	width: 1200px;
+	padding: 15px;
+	background-color:#fcb034;
+	text-align: right;
+}
+div.div2{
+	width: 1200px;
+	padding: 15px;
+	background-color: midnightblue;
+}
+div.div3{
+	width: 1200px;
+	padding: 15px;
+	background-color: white;
+	text-align: right;
+}
+div.div4{
+	width: 1200px;
+	background-color: black;
+	padding: 15px;
+}
+
+a.baner{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+	padding: 15px;
+	text-decoration: none;
+}
+div.div5{
+	width: 1200px;
+	padding: 30px;
+	
+}
+
+a.bottom{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: white;
+	text-decoration: none;
+	
+	padding-top: 40px;
+}
+a.ver{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black;
+	background-color: #fcb034;
+	padding: 10px;
+	text-decoration: none;
+}
+
+td.tabla{
+	background-color: white;
+	padding-left: 100px;
+	padding-right: 100px;
+}
